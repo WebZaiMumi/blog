@@ -1,0 +1,6 @@
+baseURL = 'https://WebZaiMumi.github.io/'
+languageCode = 'zh-tw'
+title = '姆咪 Blog'
+theme = 'hugo-theme-stack'
+
+avatar = "img/shhp.png"

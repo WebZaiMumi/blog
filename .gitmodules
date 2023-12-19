@@ -1,0 +1,4 @@
+[submodule "mumiblog/public"]
+	path = mumiblog/public
+	url = https://github.com/WebZaiMumi/WebZaiMumi.github.io.git
+	branch = main
